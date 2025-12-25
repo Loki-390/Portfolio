@@ -52,8 +52,8 @@ const Hero = () => {
         <div className="image-wrapper">
           {/* Replace this URL with your actual photo */}
           <img
-            src="https://images.unsplash.com/photo-1507003211169-0a1dd7228f2d?fit=crop&w=800&q=80"
-            alt="John Doe"
+            src="/Logesh1.jpg"   // 👈 Correct way to link files in public folder
+            alt="Logesh S"
             className="profile-img"
           />
 
